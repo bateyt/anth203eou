@@ -9,9 +9,10 @@ output:
 ## General Information
 
 - __Course Number:__  ANTH 203 (Section 102)
+- __CRN:__  37385
 - __Course Name:__  Introduction to Cultural Anthropology
 - __Credit Hours:__  5.00
-- __Course Time and Location:__  Online via Blackboard
+- __Course Time and Location:__  Online via [Blackboard](blackboard.eou.edu)
 
 
 ## Instructor
