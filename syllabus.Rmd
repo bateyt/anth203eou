@@ -12,7 +12,7 @@ output:
 - __CRN:__  37385
 - __Course Name:__  Introduction to Cultural Anthropology
 - __Credit Hours:__  5.00
-- __Course Time and Location:__  Online via [Blackboard](http://www.blackboard.eou.edu)
+- __Course Time and Location:__  Online via [Blackboard](https://www.eou.edu/bb/)
 
 
 ## Instructor
