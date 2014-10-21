@@ -1,0 +1,107 @@
+---
+title: "ANTH 203 (-102) Syllabus"
+author: "Eastern Oregon University--Fall 2014"
+output: 
+  html_document:
+    theme: spacelab
+---
+
+## General Information
+
+- __Course Number:__  ANTH 203 (Section 102)
+- __Course Name:__  Introduction to Cultural Anthropology
+- __Credit Hours:__  5.00
+- __Course Time and Location:__  Online via Blackboard
+
+
+## Instructor
+- __Name:__  [Trey Batey](https://people.eou.edu/ebatey/)
+- __Email:__  ebatey@eou.edu
+- __Voicemail:__  (541) 690-8193
+- __Office Hours/Location:__  Virtual office only
+
+The classes I teach at EOU are completely off-campus (either online, or on-site). Thus, the best way to reach me is through email---directly, or through Blackboard. I typically check email messages daily and will respond within 48 hours, likely within 24 hours. If an issue arises and we need to speak, please be sure to provide a phone number and convenient time for me to call in your message. Alternatively, we can arrange a time to speak through Google Hangouts. If you feel an issue requires more-immediate attention, please leave a voice-mail message at the number provided above, and I will contact you at my earliest opportunity.
+
+
+## Course Description
+
+From the [EOU Course Catalog](http://www.eou.edu/catalog/files/2014/05/14-15-Anthropology-Sociology.pdf):
+
+> This course is offers a cross-cultural overview of human society and organization. Students are introduced to a number of topics, including the following:  culture, language and society, subsistence strategies, cultural ecology, kinship, religion and worldview.
+
+ANTH 203 is designed to provide you, the student, with a more thorough exploration of the ideas, theories, and information found in the field of cultural anthropology than you might get from a broader introductory anthropology course (i.e., ANTH 100). Cultural anthropology is the branch of anthropology that primarily deals with _living_ human societies and their culture, as opposed to archaeology, which attempts to reconstruct "extinct" societies, or physical anthropology, which studies the physical side, both past and present, of the human animal. We will touch on these other sub-fields as well, but our main focus in this course will be human cultural systems.
+
+We will cover a wide variety of topics in this course that will not only teach us about other peoples and cultures different from our own, but will also help us to improve our understanding of our own society and its customs, values and beliefs; each can shed light upon the other. Topics to be explored include economics and cultural ecology, family and kinship systems, religion and magic, culture change and adaptation, language and communication, and legal and political systems.
+
+
+## Required Text
+
+Haviland W, Prins H, McBride B., Walrath D. 2013. _Cultural anthropology: the human challenge, 14th edition_. Belmont, CA: Wadsworth (Cengage Learning).
+
+
+## Learning Outcomes
+Upon successful completion of this course, students should be able to do the following:
+
+- Discuss the __concept of culture__ and its various manifestations.
+- Examine cultural phenomena from an __anthropological perspective__.
+- Provide examples of anthropological insights into many facets of human life (e.g., economic systems, kinship and marriage customs, and global issues).
+- Better understand the student’s own society and place within his or her cultural environment. 
+
+
+## Course Requirements and Grading
+Letter grades are based on a standard, 10-point scale:  100-90% = A, 89-80% = B, 79-70% = C, 69-60% = D, and below 60% = F). Scores on all graded activities are calculated with a point-to-percent system (i.e., percent grade = points earned/points possible). Your final grade, though, is determined by a __weighted average__ of the different types of activities. For example, your average grade for discussion assignments counts for 25% of the final grade. 
+
+The means of assessment in this class include the following:  completion of a Student Information Survey (5%); completion/performance on a Blackboard Orientation Quiz (5%); completion/performance on weekly quizzes (25%); completion/performance in weekly discussion forums (25%); and completion/performance on four exams, including a semi-comprehensive final exam (40%).
+
+#### Late work policy:  Late work will be accepted, though grades are penalized at the point-equivalent of one letter grade each day the assignment is late. No assignments are accepted after five days past the due date. Exams will not be accepted after their due dates.
+
+- **Personal Information Survey (5%):**  This survey---a Google Form---must be completed during the first week of the term. The main purpose of this form is to let me know a little about you, which can help me make course content/discussions more relevant. Submit responses to the survey no later than the end of the day (11:59 PM) on __Sunday, 5 October 2014__.
+
+- **Blackboard Orientation Quiz (5%):**  This short exercise will familiarize you with Blackboard's Test tool, which is how you will be taking all quizzes and exams. The completed quiz must be submitted by the end of the day (11:59 PM), __Sunday, 5 October 2014__. The quiz questions will relate to a short video you will need to watch prior to taking the quiz.
+
+- **Quizzes (25%):**  To review concepts, students must complete short, weekly quizzes. Students are allowed to take each quiz a maximum of two times (highest grade recorded). Quiz attempts are timed at 60 minutes, and must be completed once started. __Final quiz attempts must be submitted by the end of the day (11:59 PM) on Mondays.__
+
+- **Discussions (25%):**  Drawing on information from the textbook readings, slideshows, and web resources, students must participate weekly discussion activities. The focus is on what was learned. Within each discussion forum, each student must create an initial thread that answers/addresses the discussion question/comment/problem *and* submit a response post to a *minimum* of three initial threads from other classmates. Posts to each week's discussion forum must be submitted over _at least three separate days_. Initial thread posts and response posts are expected to be meaningful and well-thought. You are encouraged to bring additional issues into the discussion. I will monitor and participate; so, feel free to ask questions. Since these are discussions, I expect that there will be different perspectives and some disagreements. Please remember, though, to keep all comments constructive and polite. Personal attacks will not be tolerated. A good reference is this [guide to discussion etiquette for online learning](https://www2.uwstout.edu/content/profdev/rubrics/discuss_etiquette.html). A grade will be assigned for the discussion forum each week. __All discussion board posts must be submitted the end of the day (11:59 PM) on Mondays.__ 
+
+- **Exams (40%):**  These exams will assess your understanding of textbook and other required readings, as well as another other additional content (e.g., video clips). The exams will not be cumulative; that is they will primarily address material _since_ the prior exam. Of course, you may encounter terms and concepts from earlier sections on later exams. The first three exams will constitute of approximately 50--65 mixed-format questions (e.g., multiple-choice, true/false, and short-answer). The fourth (final) exam will include an additional 25--30 questions from previous sections. You will have a 96-hour (4-day) window in which to complete each exam. The exams will be timed at 80 minutes, and once you begin an exam, it must be submitted within 80 minutes. Due dates and other exam details will be posted in the Announcements section.
+
+
+## Tentative Course Outline
+The table below provides a _tentative_ schedule for the course. Changes, tweaks, or updates to this schedule will be posted in the Announcements section.
+
+Week | Topic & Textbook Readings | Assignments |
+---- | ------------------------- | ----------- |
+1 | What is anthropology?; What is "culture"? (Chapters 1 & 2) | Quiz & Discussion |
+2 | Ethnography---methods/theories (Chapter 3) | Quiz & Discussion |
+3 | Human origins/diversity; Language & culture (Chapters 4 & 5) | Discussion & __Exam 1__ |
+4 | Culture & personality; Sex, marriage, & family (Chapters 6 & 9) | Quiz & Discussion |
+5 | Kinship & descent; other social groupings (Chapters 10 & 11) | Quiz, Discussion, & __Exam 2__ |
+6 | Subsistence strategies; Economic systems (Chapters 7 & 8) | Quiz & Discussion |
+7 | Politics & power (Chapter 12 | Quiz, Discussion, & __Exam 3__ |
+8 | Spiritualism & religion (Chapter 13)| Quiz & Discussion |
+9 | The arts (Chapter 14) | Quiz & Discussion |
+10 | Culture change & globalization (Chapters 15 & 16) | Quiz & Discussion|
+11 | Finals Week...NO NEW CONTENT | __Final Exam (due by 11:59 PM, Thursday, 11 December)__ |
+
+
+## General Education Category and Outcomes
+This course provides five credits in the Social Sciences category (SSC) of general education, with emphasis on content knowledge (learn and use the vocabulary, content, and conceptual knowledge in a variety of disciplines) and inquiry (employ approaches to inquiry from a variety of disciplines).
+
+
+## University Writing Requirement (UWR) Outcomes
+ANTH 203 does _not_ fulfill UWR outcomes for a lower division course.
+
+
+## Statement on Academic Misconduct
+Eastern Oregon University places a high value upon the integrity of its student scholars. Any student found guilty of an act of academic misconduct (including, but not limited to, cheating, plagiarism, or theft of an examination or supplies) may be subject to having his or her grade reduced in the course in question, being placed on probation or suspended from the University, or being expelled from the University---or, a combination of these. For more information on EOU's policies regarding academic misconduct, please see the [Student Handbook](http://www.eou.edu/sse/student-handbook).
+
+
+## Statement on Americans with Disabilities
+If you have a documented disability or suspect that you have a learning problem and need accommodations, please contact [Disability Services](http://www.eou.edu/disability/) in Loso Hall 234 (Phone:  (541) 962-3081).     
+
+
+
+
+-----------------------------------------
+##### Prepared by Trey Batey
+##### Last updated 27 September 2014
